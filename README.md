@@ -24,9 +24,7 @@ The models learn to predict both the continuous stroke movements and discrete pe
 
 ### 1. Sketch-RNN Approach
 
-<div align="right">
-  <img src="https://github.com/mayalenE/sketch-transformer/blob/main/MDN.png?raw=true" width="300">
-</div>
+
 
 #### Architecture Details
 
@@ -55,8 +53,8 @@ class SketchRNN(nn.Module):
 
 ### 2. Sketch Transformer Approach
 
-<div align="right">
-  <img src="https://github.com/mayalenE/sketch-transformer/blob/main/model_architecture.png?raw=true" width="300">
+<div align="centre">
+  <img src="https://github.com/mayalenE/sketch-transformer/blob/main/model_architecture.png?raw=true" width="150">
 </div>
 
 #### Architecture Details
