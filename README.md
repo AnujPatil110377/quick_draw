@@ -364,17 +364,7 @@ python visualize.py --model_path models/transformer_cat.pth --output_dir animati
 
 ---
 
-## 🙏 Acknowledgments
 
-This project builds upon the work of:
-
-- David Ha \& Douglas Eck (original SketchRNN paper)
-- Andrej Karpathy (nanoGPT implementation)
-- The Google Creative Lab (Quick, Draw! dataset)
-
-Special thanks to [Antun Skuric](https://askuric.github.io/) for the CNC machine setup assistance.
-
----
 
 ## 🔮 Future Work
 
@@ -386,7 +376,7 @@ Special thanks to [Antun Skuric](https://askuric.github.io/) for the CNC machine
 
 ---
 
-Made with ❤️ by Mayalen Etcheverry | Last updated: March 23, 2025
+
 
 <div style="text-align: center">⁂</div>
 
