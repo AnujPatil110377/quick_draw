@@ -136,7 +136,7 @@ Both models are trained with similar objectives, though with architecture-specif
 
 - **Optimizer**: AdamW with learning rate 1e-4
 - **Batch Size**: 512 sequences
-- **Hardware**: Trained on NVIDIA V100 GPU (~20 minutes for full training)
+- **Hardware**: Trained on NVIDIA A4000 GPU (~250 minutes for full training)
 - **Early Stopping**: Based on validation loss plateauing
 
 
