@@ -366,20 +366,6 @@ python visualize.py --model_path models/transformer_cat.pth --output_dir animati
 
 
 
-## 🔮 Future Work
-
-- Train on the full 345-class Quick, Draw! dataset
-- Explore one-line art style drawing generation
-- Implement user-guided sketch refinement
-- Create an interactive web demo using TensorFlow.js
-- Investigate hybrid VQ-VAE + Transformer approaches
-
----
-
-
-
-<div style="text-align: center">⁂</div>
-
 [^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30934921/679cde55-7958-4fea-b753-98c63bd9b711/extracted_markdown.md
 
 [^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30934921/1a0dde84-b3d1-48cc-9561-687c5669540c/sketch_rnn_single.py
